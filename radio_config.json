@@ -150,6 +150,18 @@
       "label": "YouTube"
     },
     {
+      "id": "youtube-podcasts",
+      "enabled": true,
+      "url": "https://www.youtube.com/@MCFSermons/podcasts",
+      "label": "YouTube Podcasts"
+    },
+    {
+      "id": "uganda-gospel-app",
+      "enabled": true,
+      "url": "https://play.google.com/store/apps/details?id=com.gospel.ug&hl=en",
+      "label": "Uganda Gospel Music App"
+    },
+    {
       "id": "twitter",
       "enabled": false,
       "url": "https://x.com",
