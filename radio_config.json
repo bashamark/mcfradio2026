@@ -47,7 +47,7 @@
     "title": "",
     "fullscreen": true,
     "aspect_ratio": "16:9",
-    "chat_enabled": true
+    "chat_enabled": false
   },
   "verse_of_the_day": {
     "enabled": true,
