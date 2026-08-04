@@ -3,7 +3,7 @@
   "home_tab": {
     "enabled": false
   },
-  "configUrl": "",
+  "configUrl": "https://raw.githubusercontent.com/bashamark/mcfradio2026/refs/heads/main/radio_config.json",
   "streamUrl": "https://radio256.webusite.com/listen/mcf_radio/radio.mp3",
   "streams": [
     {
@@ -22,7 +22,7 @@
       "id": "radioboss",
       "enabled": true,
       "label": "MCF 98.7 (mcfradio2018)",
-      "url": "https://c22.radioboss.fm:18040/stream"
+      "url": "https://live-radio.mfc-streaming-service.online/orion_west-satelite_haven/transmiter.mp3"
     }
   ],
   "defaultTitle": "Live Stream",
@@ -86,7 +86,7 @@
   },
   "podcasts": {
     "enabled": true,
-    "rss_url": "https://anchor.fm/s/a55bacfc/podcast/rss",
+    "rss_url": "https://anchor.fm/s/f9c5246c/podcast/rss",
     "home_count": 6,
     "title": "Podcasts"
   },
@@ -131,8 +131,14 @@
     {
       "id": "whatsapp",
       "enabled": true,
-      "url": "https://whatsapp.com",
+      "url": "https://chat.whatsapp.com/EYWWvWevU8WDdXy40JLvNa?s=sw&p=a&mlu=2&amv=0",
       "label": "WhatsApp"
+    },
+    {
+      "id": "youtube",
+      "enabled": true,
+      "url": "https://www.youtube.com/@MutundweChristianFellowship/streams",
+      "label": "YouTube"
     },
     {
       "id": "twitter",
