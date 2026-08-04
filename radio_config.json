@@ -46,7 +46,8 @@
     "streams_title": "Recent Streams",
     "title": "",
     "fullscreen": true,
-    "aspect_ratio": "16:9"
+    "aspect_ratio": "16:9",
+    "chat_enabled": true
   },
   "verse_of_the_day": {
     "enabled": true,
