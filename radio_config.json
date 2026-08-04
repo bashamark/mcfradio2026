@@ -103,7 +103,7 @@
       "ad_unit_id": "ca-app-pub-9523725970329735/2892378874"
     },
     "radio_adaptive_banner": {
-      "enabled": false,
+      "enabled": true,
       "ad_unit_id": "ca-app-pub-9523725970329735/1582777730"
     },
     "radio_collapsible_banner": {
@@ -119,6 +119,10 @@
       "enabled": true,
       "ad_unit_id": "ca-app-pub-9523725970329735/3418501959"
     }
+  },
+  "onesignal": {
+    "enabled": true,
+    "app_id": "b86f98b6-9cf5-4ebc-80e3-1c9a23252ef2"
   },
   "socialLinks": [
     {
