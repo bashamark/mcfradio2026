@@ -30,7 +30,7 @@
   "chat": {
     "enabled": true,
     "url": "https://mcfchat-469b5.web.app/",
-    "label": "EMC Radio Chat"
+    "label": "MCF Radio Chat"
   },
   "give": {
     "enabled": false,
