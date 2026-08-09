@@ -92,7 +92,7 @@
     "title": "Podcasts"
   },
   "admob": {
-    "enabled": false,
+    "enabled": true,
     "app_id": "ca-app-pub-9523725970329735~5587190670",
     "app_open": {
       "enabled": true,
