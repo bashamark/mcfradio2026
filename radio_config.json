@@ -121,7 +121,7 @@
     }
   },
   "onesignal": {
-    "enabled": true,
+    "enabled": false,
     "app_id": "b86f98b6-9cf5-4ebc-80e3-1c9a23252ef2"
   },
   "socialLinks": [
