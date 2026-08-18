@@ -9,13 +9,13 @@
     {
       "id": "mcf",
       "enabled": true,
-      "label": "MCF 98.7 FM",
+      "label": "MCF Radio 98.7 FM",
       "url": "https://radio256.webusite.com/listen/mcf_radio/radio.mp3"
     },
     {
       "id": "mcf-data-saver",
       "enabled": true,
-      "label": "MCF Data Saver (14mbs per hr)",
+      "label": "MCF Data Saver",
       "url": "https://gospelradio.webusite.com/listen/mcf_3/mcf"
     },
     {
@@ -140,7 +140,7 @@
     {
       "id": "whatsapp",
       "enabled": true,
-      "url": "https://chat.whatsapp.com/G3sOrvXGRBj7LytFRl4NdJ?mode=ems_wa_t",
+      "url": "https://chat.whatsapp.com/EYWWvWevU8WDdXy40JLvNa?s=sw&p=a&mlu=2&amv=0",
       "label": "WhatsApp"
     },
     {
@@ -148,6 +148,14 @@
       "enabled": true,
       "url": "https://www.youtube.com/@MutundweChristianFellowship/streams",
       "label": "YouTube"
+    },
+    {
+      "id": "mcf-radio-web",
+      "enabled": true,
+      "show_in_drawer": false,
+      "show_in_radio": true,
+      "url": "https://mcfradio256.webusite.com/",
+      "label": "MCF Radio Online"
     },
     {
       "id": "youtube-podcasts",
